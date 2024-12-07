@@ -11,8 +11,7 @@
 
 ## About The Project
 
-![Project_Demo](assets/compresssed_RBAC_Demo_VDo.mp4?autoplay=1)
-- [Project Demo Video](https://drive.google.com/file/d/1jwI2XQ-6KJquuqthLxXtEuXigwlzwIey/view?usp=drive_link)
+- [Click Here & Watch Project Demo Video](https://drive.google.com/file/d/1jwI2XQ-6KJquuqthLxXtEuXigwlzwIey/view?usp=drive_link)
  
 
 This project demonstrates a complete user authentication and authorization system using JWT tokens and role-based content access. It features a frontend and backend setup integrated with PostgreSQL for data management. The project implements robust middlewares for authentication and token management, ensuring secure and seamless user interaction.
